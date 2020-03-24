@@ -31,7 +31,9 @@ You can enable these settings again at any time by adjusting your Security Level
 
 ###### Standard
 
-* At this level, all Tor Browser and website features are enabled.
+<p>
+  <font face=“Verdana, Arial, Helvetica, sans-serif” size="1.3rem" color="#212529"><span style=“line-height:2rem”>* At this level, all Tor Browser and website features are enabled.</span></font>
+</p>
 
 ###### Safer
 
